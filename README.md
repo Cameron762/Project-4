@@ -31,3 +31,10 @@
 
 ### Summary 
 #### When analyzing this dataset it is apparent that some factors heavily influence carbon emission numbers and some factors have little to no effect. Using the Random Forest Regressor model, we were able to achieve an r-score of .92 quite easily. This allowed us to perform our feature importance analysis which then allowed us to produce several strong vizualizations to help showcase our dataset. Finally, we added in a way for you to input your own carbon emission data. Using an excel sheet that would then inform you if you were above or below the average carbon emission numbers in our dataset.
+
+### Contributors
+- #### Marissa Saucedo
+- #### Josiah Johnson
+- #### Kidus Gorfe
+- #### Cameron Carson
+- #### Johnathan Rascon
