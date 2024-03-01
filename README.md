@@ -1,7 +1,6 @@
 # Project-4
 
 ## Overview
-
 #### The goal of this project is to understand how individual lifestyle factors contribute to carbon emissions. By analyzing a diverse dataset containing information about people's habits and behaviors, we aim to build a predictive model that estimates carbon emissions based on various lifestyle choices.
 
 ### Model Training
